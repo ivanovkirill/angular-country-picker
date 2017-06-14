@@ -1,5 +1,5 @@
 {
-  "name": "angular-country-picker",
+  "name": "updated-angular-country-picker",
   "version": "2.0.1",
   "description": "AngularJS directive to generate a list of countries as options of the select element.",
   "author": "Pablo Villoslada Puigcerber <pablo85@gmail.com> (http://pablovilloslada.com/)",
@@ -13,10 +13,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Puigcerber/angular-country-picker"
+    "url": "https://github.com/ivanovkirill/angular-country-picker"
   },
   "bugs": {
-    "url": "https://github.com/Puigcerber/angular-country-picker/issues"
+    "url": "https://github.com/ivanovkirill/angular-country-picker/issues"
   },
   "keywords": [
     "AngularJS",
